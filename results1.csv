@@ -1,0 +1,2 @@
+,model_id,n_pipes,gas_boiler,heat_pump,geothermal,gas_P,HP_P,geo_P,indiv_HP_P,pump_P
+0,model_sea_ring,1,False,False,False,,,500.0,,4859.147644042969
